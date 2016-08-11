@@ -1,9 +1,9 @@
 package servletest;
 
-// use http://localhost:8080/ServletTest/servlet/path.view to test
-// use http://localhost:8080/ServletTest/servlet/* to test
-//use http://localhost:8080/ServletTest/servlet/ to test
-//use http://localhost:8080/ServletTest/servlet to test
+// use http://localhost:8080/[project name]/servlet/path.view to test
+// use http://localhost:8080/[project name]/servlet/* to test
+// use http://localhost:8080/[project name]/servlet/ to test
+// use http://localhost:8080/[project name]/servlet to test
 
 import java.io.*;
 import javax.servlet.*;
